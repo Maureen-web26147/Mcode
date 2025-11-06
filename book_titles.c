@@ -1,4 +1,4 @@
-//simple c program(Hello world)single
+//simple c program(hello world)single
 /*
 Name:Maureen N Kamau
 Reg:CT100/G/26147/25
@@ -31,4 +31,3 @@ int main(){
 
    return 0;
 }
-
