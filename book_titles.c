@@ -1,3 +1,10 @@
+//simple c program(Hello world)single
+/*
+Name:Maureen N Kamau
+Reg:CT100/G/26147/25
+Description:borrowed book file
+*/
+
 #include <stdio.h>
 
 int main(){
@@ -24,3 +31,4 @@ int main(){
 
    return 0;
 }
+
